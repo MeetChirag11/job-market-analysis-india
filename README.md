@@ -74,4 +74,8 @@ The Indian job market is currently more favorable for experienced professionals,
 This dashboard helps visualize job demand clearly, and can guide job seekers to focus their efforts on high-opportunity cities and sectors.
 
 ---
+
+## 8. 📸 Dashboard Screenshot  
+![Dashboard](https://github.com/MeetChirag11/job-market-analysis-india/blob/main/Screenshot%202025-06-18%20211613.png?raw=true)
+
 ---
